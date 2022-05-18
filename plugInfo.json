@@ -1,0 +1,16 @@
+{
+    "Plugins": [
+        {
+            "Type": "python",
+            "Name": "pyqodeScriptEditor",
+            "Info": {
+                "Types": {
+                    "pyqodeScriptEditor.PyqodeScriptEditorContainer": {
+                        "bases": ["pxr.Usdviewq.plugin.PluginContainer"],
+                        "displayName": "Pyqode Script Editor Plugin"
+                    }
+                }
+            }
+        }
+    ]
+}
